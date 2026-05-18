@@ -1,9 +1,9 @@
 # Portfolio
 ## ABOUT ME
-Hello! I’m Tunde James, a Data Analyst with proven expertise in Excel, Power BI, and Data Visualization. I’m passionate about transforming complex datasets into clear, actionable insights that support informed business and management decisions.
+Hello! I’m Tunde James, a Data Analyst with proven expertise in Excel, Power BI, and Data Visualization. Always learning new ways to make data tell stories. I’m passionate about transforming complex datasets into clear, actionable insights that enhances problem solving, and support informed business and management decisions.
 
 ## SKILLS
-As a Data Analyst, I exctract, transform and visualize complex data, turning them into actionable insights for informed Decision making.
+As a Data Analyst, I exctract, transform and visualize complex data, turning them into actionable insights for informed Decision making. 
 
 ### Dashboard Samples ![Image](Screenshot 2025-12-24 134953.png)
 
@@ -67,9 +67,9 @@ An indebt analysis of Real Estate Sales Performance
 
 📈 **What I’m Currently Working On**
 
-• Building more interactive Power BI dashboards
+• Building more interactive dashboards
 
-• Improving data modeling and DAX skills
+• Improving data modeling and DAX skills 
 
 • Expanding my GitHub portfolio with real-world datasets
 
