@@ -77,7 +77,7 @@ An indebt analysis of Real Estate Sales Performance
 
 🔗: (www.linkedin.com/in/tundejames)
 
-📧 : (tundejamestjay@gmai.com)
+📧 : (tundejamestjay@gmail.com)
 
 📞: (234)8033200111
 
