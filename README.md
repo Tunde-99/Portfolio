@@ -5,7 +5,7 @@ Hello! I’m Tunde James, a Data Analyst with proven expertise in Excel, Power B
 ## SKILLS
 As a Data Analyst, I exctract, transform and visualize complex data, turning them into actionable insights for informed Decision making.
 
-### Dashboard Samples ![Image](DASHBOARD SAMPLES.png)
+### Dashboard Samples ![Image](Screenshot 2025-12-24 134953.png)
 
 🛠️ Skills Include:
 
